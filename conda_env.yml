@@ -1,4 +1,4 @@
-name: sfda
+name: sbac
 channels:
   - defaults
 dependencies:
