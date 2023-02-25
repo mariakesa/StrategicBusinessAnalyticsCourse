@@ -11,4 +11,4 @@ For developers:
    conda activate sbac
    ```
 
-Now you should always have the same conda packages as all other dev
+Now you should always have the same conda packages as all other developers
