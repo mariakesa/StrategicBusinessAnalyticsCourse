@@ -10,3 +10,5 @@ For developers:
    conda env create --name sbac --file=conda_env.yml
    conda activate sbac
    ```
+
+Now you should always have the same conda packages as all other dev
